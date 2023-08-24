@@ -1,1 +1,0 @@
-web: voila user_GUI.ipynb --port=$PORT --no-browser
