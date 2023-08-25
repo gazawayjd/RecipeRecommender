@@ -3,7 +3,11 @@ Capstone Project for BS in Computer Science
 
 **Step 1: Prepare Your System**
 
-Before you start, ensure that you have Python and pip installed on your computer.
+Before you start, ensure that you have Python and pip installed on your computer. 
+
+If you don't, you can install Python at the following url: https://www.python.org/downloads/
+
+Once downloaded, you'll want to install pip to manage your python packages. You can find steps for this at the following URL: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 
 **Step 2: Extract the Zip File**
 
